@@ -1,1 +1,1 @@
-This folder contain all the Java Lab code.
+This folder contains all the Java GUI Lab code.
